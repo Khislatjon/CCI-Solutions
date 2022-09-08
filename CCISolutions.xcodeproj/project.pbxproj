@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0E0697EA28C92263008DF1BC /* 2.8.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E0697E928C92262008DF1BC /* 2.8.swift */; };
+		0E0697EE28C92781008DF1BC /* 3.1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E0697ED28C92781008DF1BC /* 3.1.swift */; };
+		0E850DEF28BF1485005C6923 /* 2.6.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E850DEE28BF1485005C6923 /* 2.6.swift */; };
+		0E850DF328BF271E005C6923 /* 2.7.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E850DF228BF271E005C6923 /* 2.7.swift */; };
 		0E99EF5F288BC24D00A59D51 /* 1.1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E99EF5E288BC24D00A59D51 /* 1.1.swift */; };
 		0E99EF61288BC28000A59D51 /* 1.2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E99EF60288BC28000A59D51 /* 1.2.swift */; };
 		0E99EF63288BC29700A59D51 /* 1.3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E99EF62288BC29700A59D51 /* 1.3.swift */; };
@@ -17,7 +21,13 @@
 		0E99EF6D288BC32900A59D51 /* 1.7.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E99EF6C288BC32900A59D51 /* 1.7.swift */; };
 		0E99EF6F288D945C00A59D51 /* 1.8.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E99EF6E288D945C00A59D51 /* 1.8.swift */; };
 		0E99EF71288E739400A59D51 /* 1.9.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E99EF70288E739400A59D51 /* 1.9.swift */; };
+		0E99EF74288E92DC00A59D51 /* 2.1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E99EF73288E92DC00A59D51 /* 2.1.swift */; };
+		0E99EF77288E959E00A59D51 /* MyLinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E99EF76288E959E00A59D51 /* MyLinkedList.swift */; };
 		0EA3E9D02885F45000F29F0A /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EA3E9CF2885F45000F29F0A /* main.swift */; };
+		0EB326CA28B74E0A00DD597C /* 2.2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EB326C928B74E0A00DD597C /* 2.2.swift */; };
+		0EB326CC28B7545900DD597C /* 2.3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EB326CB28B7545900DD597C /* 2.3.swift */; };
+		0EB326D228BC84BB00DD597C /* 2.4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EB326D128BC84BB00DD597C /* 2.4.swift */; };
+		0EB326D828BDBD3800DD597C /* 2.5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EB326D728BDBD3800DD597C /* 2.5.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -33,6 +43,10 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		0E0697E928C92262008DF1BC /* 2.8.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2.8.swift; sourceTree = "<group>"; };
+		0E0697ED28C92781008DF1BC /* 3.1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 3.1.swift; sourceTree = "<group>"; };
+		0E850DEE28BF1485005C6923 /* 2.6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2.6.swift; sourceTree = "<group>"; };
+		0E850DF228BF271E005C6923 /* 2.7.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2.7.swift; sourceTree = "<group>"; };
 		0E99EF5E288BC24D00A59D51 /* 1.1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1.1.swift; sourceTree = "<group>"; };
 		0E99EF60288BC28000A59D51 /* 1.2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1.2.swift; sourceTree = "<group>"; };
 		0E99EF62288BC29700A59D51 /* 1.3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1.3.swift; sourceTree = "<group>"; };
@@ -43,8 +57,14 @@
 		0E99EF6C288BC32900A59D51 /* 1.7.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1.7.swift; sourceTree = "<group>"; };
 		0E99EF6E288D945C00A59D51 /* 1.8.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1.8.swift; sourceTree = "<group>"; };
 		0E99EF70288E739400A59D51 /* 1.9.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1.9.swift; sourceTree = "<group>"; };
+		0E99EF73288E92DC00A59D51 /* 2.1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2.1.swift; sourceTree = "<group>"; };
+		0E99EF76288E959E00A59D51 /* MyLinkedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyLinkedList.swift; sourceTree = "<group>"; };
 		0EA3E9CC2885F45000F29F0A /* CCISolutions */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CCISolutions; sourceTree = BUILT_PRODUCTS_DIR; };
 		0EA3E9CF2885F45000F29F0A /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		0EB326C928B74E0A00DD597C /* 2.2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2.2.swift; sourceTree = "<group>"; };
+		0EB326CB28B7545900DD597C /* 2.3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2.3.swift; sourceTree = "<group>"; };
+		0EB326D128BC84BB00DD597C /* 2.4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2.4.swift; sourceTree = "<group>"; };
+		0EB326D728BDBD3800DD597C /* 2.5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2.5.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +78,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		0E0697EC28C92735008DF1BC /* Chapter 3 - Stacks and Queues */ = {
+			isa = PBXGroup;
+			children = (
+				0E0697ED28C92781008DF1BC /* 3.1.swift */,
+			);
+			path = "Chapter 3 - Stacks and Queues";
+			sourceTree = "<group>";
+		};
 		0E99EF5D288BC23300A59D51 /* Chapter 1 - Arrays and Strings */ = {
 			isa = PBXGroup;
 			children = (
@@ -72,6 +100,30 @@
 				0E99EF70288E739400A59D51 /* 1.9.swift */,
 			);
 			path = "Chapter 1 - Arrays and Strings";
+			sourceTree = "<group>";
+		};
+		0E99EF72288E914C00A59D51 /* Chapter 2 - Linked Lists */ = {
+			isa = PBXGroup;
+			children = (
+				0E99EF73288E92DC00A59D51 /* 2.1.swift */,
+				0EB326C928B74E0A00DD597C /* 2.2.swift */,
+				0EB326CB28B7545900DD597C /* 2.3.swift */,
+				0EB326D128BC84BB00DD597C /* 2.4.swift */,
+				0EB326D728BDBD3800DD597C /* 2.5.swift */,
+				0E850DEE28BF1485005C6923 /* 2.6.swift */,
+				0E850DF228BF271E005C6923 /* 2.7.swift */,
+				0E0697E928C92262008DF1BC /* 2.8.swift */,
+			);
+			path = "Chapter 2 - Linked Lists";
+			sourceTree = "<group>";
+		};
+		0E99EF75288E957C00A59D51 /* Resource */ = {
+			isa = PBXGroup;
+			children = (
+				0E99EF6A288BC2F900A59D51 /* Extensions.swift */,
+				0E99EF76288E959E00A59D51 /* MyLinkedList.swift */,
+			);
+			path = Resource;
 			sourceTree = "<group>";
 		};
 		0EA3E9C32885F44F00F29F0A = {
@@ -94,8 +146,10 @@
 			isa = PBXGroup;
 			children = (
 				0EA3E9CF2885F45000F29F0A /* main.swift */,
-				0E99EF6A288BC2F900A59D51 /* Extensions.swift */,
+				0E99EF75288E957C00A59D51 /* Resource */,
 				0E99EF5D288BC23300A59D51 /* Chapter 1 - Arrays and Strings */,
+				0E99EF72288E914C00A59D51 /* Chapter 2 - Linked Lists */,
+				0E0697EC28C92735008DF1BC /* Chapter 3 - Stacks and Queues */,
 			);
 			path = CCISolutions;
 			sourceTree = "<group>";
@@ -159,12 +213,22 @@
 			buildActionMask = 2147483647;
 			files = (
 				0E99EF5F288BC24D00A59D51 /* 1.1.swift in Sources */,
+				0EB326D828BDBD3800DD597C /* 2.5.swift in Sources */,
+				0E850DF328BF271E005C6923 /* 2.7.swift in Sources */,
+				0E99EF74288E92DC00A59D51 /* 2.1.swift in Sources */,
+				0EB326CA28B74E0A00DD597C /* 2.2.swift in Sources */,
+				0E850DEF28BF1485005C6923 /* 2.6.swift in Sources */,
 				0E99EF6F288D945C00A59D51 /* 1.8.swift in Sources */,
 				0E99EF71288E739400A59D51 /* 1.9.swift in Sources */,
+				0E0697EE28C92781008DF1BC /* 3.1.swift in Sources */,
 				0E99EF65288BC2B300A59D51 /* 1.4.swift in Sources */,
 				0E99EF61288BC28000A59D51 /* 1.2.swift in Sources */,
+				0EB326CC28B7545900DD597C /* 2.3.swift in Sources */,
+				0EB326D228BC84BB00DD597C /* 2.4.swift in Sources */,
+				0E0697EA28C92263008DF1BC /* 2.8.swift in Sources */,
 				0E99EF6B288BC2F900A59D51 /* Extensions.swift in Sources */,
 				0E99EF6D288BC32900A59D51 /* 1.7.swift in Sources */,
+				0E99EF77288E959E00A59D51 /* MyLinkedList.swift in Sources */,
 				0E99EF63288BC29700A59D51 /* 1.3.swift in Sources */,
 				0E99EF67288BC2C000A59D51 /* 1.5.swift in Sources */,
 				0EA3E9D02885F45000F29F0A /* main.swift in Sources */,

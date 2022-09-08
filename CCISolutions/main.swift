@@ -7,13 +7,16 @@
 
 import Foundation
 
-var matrix = [
-    [2, 5, 4, 7],
-    [6, 3, 1, 8],
-    [9, 2, 5, 6],
-    [8, 4, 0, 3]
-]
-//rotate(matrix: &matrix)
-//print(zeroMatrix(&matrix))
 
-print(isRotation(s1: "water", s2: "retwar"))
+//let six = Node(val: 4)
+//let five = Node(val: 3, next: six)
+//let four = Node(val: 5, next: five)
+//let three = Node(val: 2, next: four)
+//let two = Node(val: 7, next: three)
+//let one = Node(val: 10, next: two)
+//
+//var resultHead = deleteMiddle(one)
+//while resultHead != nil {
+//    print(resultHead?.val as Any)
+//    resultHead = resultHead?.next
+//}

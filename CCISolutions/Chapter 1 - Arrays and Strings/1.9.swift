@@ -7,7 +7,7 @@
 
 import Foundation
 
-// MARK: - CHAPETR 1: 1.0 String Rotation
+// MARK: - CHAPETR 1: 1.9 String Rotation
 
 func isRotation(s1: String, s2: String) -> Bool {
     guard s1.count == s2.count else { return false }
@@ -17,3 +17,15 @@ func isRotation(s1: String, s2: String) -> Bool {
 func isSubstring(superStr: String, substring: String) -> Bool {
     return superStr.contains(substring)
 }
+
+// Test in main
+//var matrix = [
+//    [2, 5, 4, 7],
+//    [6, 3, 1, 8],
+//    [9, 2, 5, 6],
+//    [8, 4, 0, 3]
+//]
+////rotate(matrix: &matrix)
+////print(zeroMatrix(&matrix))
+//
+//print(isRotation(s1: "water", s2: "retwar"))
